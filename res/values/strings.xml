@@ -24,5 +24,7 @@
         <item>Android 4.3 Jelly Bean (API level 18)</item>
         <item>Android 4.4 KitKat (API level 19)</item>
     </string-array>
-    <string name="main_activity_title">Home Screen</string>
+    <string name="title_main_activity">Home Screen</string>
+    <string name="title_activity_splash_screen">Splash Screen</string>
+
 </resources>

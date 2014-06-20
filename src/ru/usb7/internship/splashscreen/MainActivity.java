@@ -11,7 +11,7 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-		
+
 		String[] items = getResources().getStringArray(R.array.items);
 
 		ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
